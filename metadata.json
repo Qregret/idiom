@@ -1,0 +1,6 @@
+{
+  "name": "公考高频词",
+  "description": "科学记忆，高效备考。助力公考学子掌握高频考点词汇。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["vocabulary learning", "spaced repetition", "exam prep"]
+}
